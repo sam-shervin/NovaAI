@@ -1,54 +1,21 @@
-# Astro Starter Kit: Basics
+![Screenshot 2024-02-20 143417](https://github.com/sam-shervin/NovaAI/assets/151179152/9661c648-432c-4d90-9fb6-4cae6f3e4dee)
 
-```sh
-npm create astro@latest -- --template basics
-```
+# Nova 🚀: Your Personal Assistant for Efficient Task Management
+Introducing Nova, your new personal assistant designed to streamline task management and boost 🔥 productivity. With Nova, you can simply input all your tasks 🏢 and deadlines ⏰ for the week, and Nova takes on the responsibility of planning your schedule, ensuring tasks are completed ✅ within the specified time frame.
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/basics)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/basics)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/basics/devcontainer.json)
+# How it Works:
+Input Tasks and Deadlines: Type in all your tasks and deadlines for the week into Nova 🚀.
+Automated Scheduling: Nova intelligently plans your schedule, adhering to the specified time frames and scope provided by you.
+Efficiency Analysis: Nova analyzes your completion time ⌚ and efficiency to generate a personalized productivity score, helping you track your progress over time.
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+# Future Scope:
+Voice Recognition: Enhance user experience by incorporating voice recognition ⚡ for task inputs.
+ML Operations Integration: Develop Nova further by implementing more machine learning operations for 🔥 enhanced performance.
+Google Integration: Integrate Nova with Google Assistant, allowing users to utilize Nova for scheduling tasks, which can then be synced with Google Calendar for seamless schedule management.
 
-![just-the-basics](https://github.com/withastro/astro/assets/2244813/a0a5533c-a856-4198-8470-2d67b1d7c554)
-
-## 🚀 Project Structure
-
-Inside of your Astro project, you'll see the following folders and files:
-
-```text
-/
-├── public/
-│   └── favicon.svg
-├── src/
-│   ├── components/
-│   │   └── Card.astro
-│   ├── layouts/
-│   │   └── Layout.astro
-│   └── pages/
-│       └── index.astro
-└── package.json
-```
-
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
-
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
-
-Any static assets, like images, can be placed in the `public/` directory.
-
-## 🧞 Commands
-
-All commands are run from the root of the project, from a terminal:
-
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
-
-## 👀 Want to learn more?
-
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+# Get Started:
+To start using Nova:
+1. Clone the Nova repository.
+2. Install the required dependencies.
+3. Run Nova locally on your machine.
+4. Input your tasks and deadlines to get your weekly schedule planned effortlessly.
