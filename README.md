@@ -10,7 +10,7 @@ Efficiency Analysis: Nova analyzes your completion time ⌚ and efficiency to ge
 
 # Future Scope:
 Voice Recognition: Enhance user experience by incorporating voice recognition ⚡ for task inputs.
-ML Operations Integration: Develop Nova further by implementing more machine learning operations for 🔥 enhanced performance.
+ML Operations Integration: Develop Nova further by implementing more machine learning operations for enhanced performance.
 Google Integration: Integrate Nova with Google Assistant, allowing users to utilize Nova for scheduling tasks, which can then be synced with Google Calendar for seamless schedule management.
 
 # Get Started:
