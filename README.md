@@ -1,4 +1,4 @@
-# ⚠️This repository is moved to ![](https://github.com/NIVISH24)⚠️
+# ⚠️This repository is moved to ![NIVISH24 organization](https://github.com/NIVISH24)⚠️
 
 ![Screenshot 2024-02-20 143417](https://github.com/sam-shervin/NovaAI/assets/151179152/9661c648-432c-4d90-9fb6-4cae6f3e4dee)
 
